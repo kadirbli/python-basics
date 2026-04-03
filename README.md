@@ -1,3 +1,3 @@
 # Python Öğreniyorum
 
-Bu depo, Python öğrenirken çözdüğüm alıştırmaları, algoritma çalışmalarımı ve geliştirdiğim küçük çaplı uygulamaları içermektedir.
+Bu depo, Python öğrenirken çözdüğüm alıştırmaları ve geliştirdiğim küçük çaplı uygulamaları içermektedir.
